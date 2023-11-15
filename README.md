@@ -1,2 +1,12 @@
 # Introduction-to-Visual-Media-Programming-pygame
-Introduction-to-Visual-Media-Programming
+
+## 게임 콘셉트
+
+쓰레기 트럭을 타고 달려오는 자동차들을 파괴하기!
+
+환경미화원이 되어 지구를 오염시키는 내연기관 자동차들을 파괴하라!
+
+| 플레이어 | 공격 | 적 |
+|---|---|---|
+|쓰레기 수거 트럭|쓰레기 봉투|자동차 5종 (지프, 스포츠카, 슈퍼카, 클래식카, 트럭)|
+|사진|사진|사진|
